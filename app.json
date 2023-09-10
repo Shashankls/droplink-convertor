@@ -1,9 +1,9 @@
 {
-    "name": "URLSHORTX Bot",
+    "name": "sharedisk Bot",
     "description": "Make short link by using DROPLLINK API key",
     "keywords": [
         "telegram",
-        "Droplink"
+        "sharedisk"
     ],
     "website": "https://github.com/Devansh20055/droplink-convertor",
     "repository": "https://github.com/Devansh20055/droplink-convertor",
